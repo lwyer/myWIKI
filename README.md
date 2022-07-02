@@ -1,2 +1,2 @@
 # mywiki
-a personal wiki framework based on spring boot
+a personal wiki middleware based on spring boot
